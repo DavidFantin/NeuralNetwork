@@ -1,0 +1,1 @@
+Project based on the "Make Your Own Neural Network" book by Tariq Rashid
